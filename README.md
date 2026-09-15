@@ -8,8 +8,13 @@ Jag har byggt den här hemsidan helt med HTML-kod.
 
 Länkar till min sida
 
+Github:
 https://illertriller.github.io/Hemsida_MinHobby/
+Cloudflare workers:
 https://hemisda-minhobby.greenrest600.workers.dev/
+Netlify:
+https://dynamic-capybara-4d2cf1.netlify.app
+
 
 Vad är skillnaden mellan git add och git commit?
 git add = markerar filer inför nästa commit, och inget laddas upp än till GitHub.
