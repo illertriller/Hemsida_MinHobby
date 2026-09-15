@@ -8,11 +8,11 @@ Jag har byggt den här hemsidan helt med HTML-kod.
 
 Länkar till min sida
 
-Github:
+-Github:
 https://illertriller.github.io/Hemsida_MinHobby/
-Cloudflare workers:
+-Cloudflare workers:
 https://hemisda-minhobby.greenrest600.workers.dev/
-Netlify:
+-Netlify:
 https://dynamic-capybara-4d2cf1.netlify.app
 
 
